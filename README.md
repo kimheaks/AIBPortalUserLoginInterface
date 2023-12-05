@@ -20,8 +20,8 @@ Educational resource for learning HTML and CSS concepts.
 Prototyping login functionalities.
 Demonstrations of a school's login process.
 
-References : https://urm.acleda-aib.edu.kh/(S(3uz4bhayus4qqcflirxrwueo))/Account/Login.aspx
-Deployed : https://kimheaks.github.io/AIBPortalUserLoginInterface/aib_login.html
+References : https://urm.acleda-aib.edu.kh/(S(3uz4bhayus4qqcflirxrwueo))/Account/Login.aspx    .
+Deployed : https://kimheaks.github.io/AIBPortalUserLoginInterface/aib_login.html    .
 
 Thank you for your interest in the School Login Interface Clone project. 
 Warm Regards,
