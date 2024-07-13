@@ -11,7 +11,7 @@ References : https://urm.acleda-aib.edu.kh/(S(3uz4bhayus4qqcflirxrwueo))/Account
 
 Demo : https://kimheaks.github.io/AIBPortalUserLoginInterface/aib_login.html    
 
-Thank you for your interest in work. 
+Thanks for your interest in my work. 
 
 Warm Regards,
 
