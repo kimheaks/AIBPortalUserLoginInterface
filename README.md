@@ -4,7 +4,7 @@ This project recreates a school's login interface using HTML and CSS. It accurat
 
 Features:
 
-Authentic Look and Feel
+Authentic Look and Feel,
 Responsive Design
 
 References : https://urm.acleda-aib.edu.kh/(S(3uz4bhayus4qqcflirxrwueo))/Account/Login.aspx    
